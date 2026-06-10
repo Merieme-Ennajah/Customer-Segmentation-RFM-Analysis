@@ -12,8 +12,7 @@ An interactive **Power BI dashboard** is included for business visualization.
 
 ## Dataset
 
-The dataset used is the  
-:contentReference[oaicite:0]{index=0}
+The dataset used is the Online Retail Dataset (UCI Machine Learning Repository).
 
 It contains transactional data from a UK-based online retailer between 2010–2011.
 
@@ -92,6 +91,3 @@ An interactive dashboard was built with:
 - RFM behavioral insights
 
 Screenshots are available in the `powerbi/` folder.
-
-├── README.md
-└── requirements.txt
