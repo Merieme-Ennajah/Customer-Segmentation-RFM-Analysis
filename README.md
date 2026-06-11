@@ -90,4 +90,4 @@ An interactive dashboard was built with:
 - Revenue distribution analysis
 - RFM behavioral insights
 
-Screenshots are available in the `powerbi/` folder.
+Screenshots are available in the project folder.
